@@ -1,4 +1,4 @@
-# Photography Portfolio Website
+# Web Dev Portfolio Website
 This is a responsive web developer portfolio website designed using the MERN stack and Tailwind CSS. 
 It is optimized for both page speed tests and search engines, ensuring an optimal user experience.
 
